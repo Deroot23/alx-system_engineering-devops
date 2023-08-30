@@ -1,1 +1,1 @@
-this is the repo of the project
+this is the project
