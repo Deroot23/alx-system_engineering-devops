@@ -1,1 +1,1 @@
-this is directory README
+this is the project directory
